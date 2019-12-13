@@ -1,13 +1,11 @@
 # BaiduNetdiskPlugin-macOS
 
-![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  [![GitHub license](https://img.shields.io/github/license/CodeTips/BaiduNetdiskPlugin-macOS.svg)](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS/blob/master/LICENSE)
-
+![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  
 
 ### 说明
 * 免责声明：本项目旨在学习macOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。
 * 包含功能：百度网盘 SVIP破解和速度限制破解。
-* **破解完成后会提示让输入密码，访问钥匙串权限。若不想输入请执行"sudo chown -R $(whoami) 百度网盘路径"。若觉得不安全，请看源码。不懂的，不多做解释了。
-* **此补丁只是破解了速度限制，并没有提速功能。如果安装完成后，速度没有变化，请搭配热度资源一块下载试试。**
+* **破解完成后会提示让输入密码，访问钥匙串权限。若不想输入请执行"sudo chown -R $(whoami) 百度网盘路径"。* **此补丁只是破解了速度限制，并没有提速功能。如果安装完成后，速度没有变化，请搭配热度资源一块下载试试。**
 * **频繁使用可能导致账号或者IP被官方限制，如果出现之前能用，限制不管用了，请换账号试试。**
 
 
